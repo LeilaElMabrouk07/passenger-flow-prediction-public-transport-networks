@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Passenger Flow Forecasting with STGCN
 
 - Project Overview
@@ -140,6 +141,7 @@ Real vs predicted flows
 Visualize:
 Passenger flow per link
 Forecast errors
+
 
 
 
